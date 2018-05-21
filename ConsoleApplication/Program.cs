@@ -15,7 +15,7 @@ namespace ConsoleApplication
         }
         public string Run()
         {
-            string str = "66666";
+            string str = "7777";
             return str;
         }
     }
